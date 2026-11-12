@@ -6,6 +6,11 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+### Changed
+- `@namespace` in every file now points at github.com/ckozlov-ASR/Gmail-Swatches.
+- README: new "Why use it" section on reading a preview of each email
+  from the inbox without opening it or using the reading pane.
+
 ## [3.2.1] — 2026-11-12 — Lighter thread header
 
 ### Changed
