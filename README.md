@@ -1,21 +1,8 @@
 # Gmail Swatches
 
-Styles that reskin Gmail in the browser: roomier two-line inbox rows,
-highlighted category tabs, rounded message cards in conversations, and a
-choice of color themes (the swatches), one per Gmail account if you like.
+Gmail normally squeezes each message onto one line, with only a few words of the body trailing after the subject. To read more you have to open the message or turn on the reading pane, which takes space away from the inbox list.
 
-## Why use it
-
-Gmail normally squeezes each message onto one line, with only a few words
-of the body trailing after the subject. To read more you have to open the
-message or turn on the reading pane, which takes space away from the
-inbox list.
-
-Gmail Swatches gives every row two lines: the subject on top and a
-preview of the body underneath. You can skim what each email says straight
-from the inbox, without clicking into it or using the reading pane. Rows
-are taller, unread mail stands out, and the colors make it easy to tell
-which account you're in.
+Gmail Swatches gives every row two lines: the subject on top and a preview of the body underneath. You can skim what each email says straight from the inbox, without clicking into it or using the reading pane. Rows are taller, unread mail stands out, and the colors make it easy to tell which account you're in.
 
 Current version: **3.2.2** — see [CHANGELOG.md](CHANGELOG.md).
 
