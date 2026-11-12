@@ -17,7 +17,7 @@ from the inbox, without clicking into it or using the reading pane. Rows
 are taller, unread mail stands out, and the colors make it easy to tell
 which account you're in.
 
-Current version: **3.2.1** — see [CHANGELOG.md](CHANGELOG.md).
+Current version: **3.2.2** — see [CHANGELOG.md](CHANGELOG.md).
 
 ## How it's organized
 

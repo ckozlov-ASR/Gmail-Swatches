@@ -6,6 +6,8 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+## [3.2.2] — 2026-11-12 — Inbox preview explained
+
 ### Changed
 - `@namespace` in every file now points at github.com/ckozlov-ASR/Gmail-Swatches.
 - README: new "Why use it" section on reading a preview of each email
@@ -183,7 +185,8 @@ First published version.
 - Section headers and comments throughout; selectors and values unchanged
   from the original uploaded stylesheet.
 
-[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.1...HEAD
+[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.2...HEAD
+[3.2.2]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.1...v3.2.2
 [3.2.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.0...v3.2.1
 [3.2.0]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.1.1...v3.2.0
 [3.1.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.1.0...v3.1.1
