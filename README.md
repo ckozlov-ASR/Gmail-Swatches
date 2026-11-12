@@ -4,7 +4,7 @@ Styles that reskin Gmail in the browser: roomier two-line inbox rows,
 highlighted category tabs, rounded message cards in conversations, and a
 choice of color themes (the swatches), one per Gmail account if you like.
 
-Current version: **3.2.0** — see [CHANGELOG.md](CHANGELOG.md).
+Current version: **3.2.1** — see [CHANGELOG.md](CHANGELOG.md).
 
 ## How it's organized
 

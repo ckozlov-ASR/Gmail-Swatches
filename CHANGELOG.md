@@ -6,6 +6,8 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+## [3.2.1] — 2026-11-12 — Lighter thread header
+
 ### Changed
 - **Lighter thread header.** The sender/date strip in conversations is
   paler in every theme (strength 0.10, down from 0.16–0.18).
@@ -176,7 +178,8 @@ First published version.
 - Section headers and comments throughout; selectors and values unchanged
   from the original uploaded stylesheet.
 
-[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.0...HEAD
+[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.1...HEAD
+[3.2.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.0...v3.2.1
 [3.2.0]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.1.1...v3.2.0
 [3.1.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.1.0...v3.1.1
 [3.1.0]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.0.0...v3.1.0
