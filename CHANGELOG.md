@@ -6,6 +6,10 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+### Changed
+- **Lighter thread header.** The sender/date strip in conversations is
+  paler in every theme (strength 0.10, down from 0.16–0.18).
+
 ## [3.2.0] — 2026-11-12 — Lighter touch
 
 ### Changed

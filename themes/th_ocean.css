@@ -74,7 +74,7 @@
 
     /* Thread header: pale seafoam. Strip behind the sender and date at
        the top of each message in a conversation.
-       Strength: 0.10 lighter … 0.16 now … 0.30 darker */
-    --gm-thread-header: rgba(90, 180, 175, 0.16);
+       Strength: 0.05 lighter … 0.10 now … 0.30 darker */
+    --gm-thread-header: rgba(90, 180, 175, 0.10);
   }
 }

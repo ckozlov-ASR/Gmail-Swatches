@@ -61,8 +61,8 @@ changes and a suggested range, for example:
 ```css
 /* Thread header: pale amber. Strip behind the sender and date at
    the top of each message in a conversation.
-   Strength: 0.10 lighter … 0.18 now … 0.30 darker */
---gm-thread-header: rgba(230, 180, 90, 0.18);
+   Strength: 0.05 lighter … 0.10 now … 0.30 darker */
+--gm-thread-header: rgba(230, 180, 90, 0.10);
 ```
 
 Edit the value in your Stylus style, keeping the punctuation as it is, and
