@@ -239,9 +239,18 @@
 }
 
 /* Subject on the first line, preview text on a second line. */
-.y6,
 .xT {
   display: table !important;
+}
+
+/* The subject line shrinks and ends in "…" when space runs short, so
+   it stays beside a sender icon instead of dropping below it when the
+   hover buttons appear. */
+.y6 {
+  display: block !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  text-overflow: ellipsis !important;
 }
 
 /* Hides the " - " between subject and preview, which isn't needed

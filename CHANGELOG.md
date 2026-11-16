@@ -6,6 +6,11 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+### Fixed
+- **Sender icon jump on hover.** When a row with a sender icon was
+  hovered, a long subject dropped below the icon. The subject now stays
+  beside the icon and ends in "…" if it runs out of room.
+
 ## [3.3.1] — 2026-11-16 — Light hover-color tabs
 
 ### Changed
