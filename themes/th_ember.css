@@ -76,10 +76,10 @@
        Strength: 0.05 lighter … 0.10 now … 0.30 darker */
     --gm-thread-header: rgba(235, 140, 60, 0.10);
 
-    /* Active tab: copper, like the selected sidebar folder, so it
-       stands apart from the peach unread rows. Background of the open
-       Primary/Promotions/Updates tab.
-       Strength: 0.3 subtle … 0.5 now … 0.7 strong */
-    --gm-tab-selected: rgba(194, 122, 69, 0.5);
+    /* Active tab: light rust, a softer version of the hover color,
+       so it stands apart from the peach unread rows. Background of
+       the open Primary/Promotions/Updates tab.
+       Strength: 0.25 subtle … 0.4 now … 0.6 strong */
+    --gm-tab-selected: rgba(196, 104, 40, 0.4);
   }
 }

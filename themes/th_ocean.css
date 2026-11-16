@@ -76,10 +76,10 @@
        Strength: 0.05 lighter … 0.10 now … 0.30 darker */
     --gm-thread-header: rgba(90, 180, 175, 0.10);
 
-    /* Active tab: slate blue, like the selected sidebar folder, so it
-       stands apart from the pale blue unread rows. Background of the
-       open Primary/Promotions/Updates tab.
-       Strength: 0.3 subtle … 0.5 now … 0.7 strong */
-    --gm-tab-selected: rgba(143, 176, 201, 0.5);
+    /* Active tab: light sky blue, a softer version of the hover color,
+       so it stands apart from the pale blue unread rows. Background of
+       the open Primary/Promotions/Updates tab.
+       Strength: 0.25 subtle … 0.4 now … 0.6 strong */
+    --gm-tab-selected: rgba(110, 165, 200, 0.4);
   }
 }

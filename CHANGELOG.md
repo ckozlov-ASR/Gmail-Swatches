@@ -6,6 +6,11 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+### Changed
+- **Active tab color.** The open Primary/Promotions/Updates tab is now a
+  light version of each theme's hover color (sage in Autumn, sky blue in
+  Ocean, rust in Ember) instead of the selected-folder color.
+
 ## [3.3.0] — 2026-11-16 — Active tab color
 
 ### Changed
