@@ -6,10 +6,13 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+## [3.3.1] — 2026-11-16 — Light hover-color tabs
+
 ### Changed
 - **Active tab color.** The open Primary/Promotions/Updates tab is now a
   light version of each theme's hover color (sage in Autumn, sky blue in
   Ocean, rust in Ember) instead of the selected-folder color.
+- README: the Installing section links to the Stylus project on GitHub.
 
 ## [3.3.0] — 2026-11-16 — Active tab color
 
@@ -199,7 +202,8 @@ First published version.
 - Section headers and comments throughout; selectors and values unchanged
   from the original uploaded stylesheet.
 
-[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.0...HEAD
+[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.1...HEAD
+[3.3.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.0...v3.3.1
 [3.3.0]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.2...v3.3.0
 [3.2.2]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.1...v3.2.2
 [3.2.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.0...v3.2.1
