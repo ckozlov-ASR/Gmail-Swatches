@@ -4,7 +4,7 @@ Gmail normally squeezes each message onto one line, with only a few words of the
 
 Gmail Swatches gives every row two lines: the subject on top and a preview of the body underneath. You can skim what each email says straight from the inbox, without clicking into it or using the reading pane. Rows are taller, unread mail stands out, and the colors make it easy to tell which account you're in. Pick a color theme (a swatch) for each Gmail account: Autumn, Ocean or Ember.
 
-Current version: **3.2.2** — see [CHANGELOG.md](CHANGELOG.md).
+Current version: **3.3.0** — see [CHANGELOG.md](CHANGELOG.md).
 
 ## How it's organized
 
