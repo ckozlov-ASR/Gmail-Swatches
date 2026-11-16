@@ -162,10 +162,11 @@
    5) Category Tabs (Primary / Promotions / Updates)
    ========================================================= */
 
-/* Active tab: accent background. The selector matches the specificity
-   of Gmail's own "background: none !important" rule so this one wins. */
+/* Active tab: the theme's tab color (the accent if a theme has none).
+   The selector matches the specificity of Gmail's own
+   "background: none !important" rule so this one wins. */
 .J-KU-Jg-K9.aAA .J-KU-KO.aAy {
-  background-color: var(--gm-accent, rgba(0, 0, 0, 0.1)) !important;
+  background-color: var(--gm-tab-selected, var(--gm-accent, rgba(0, 0, 0, 0.1))) !important;
   border-radius: var(--gm-radius) var(--gm-radius) 0 0;
 }
 

@@ -69,9 +69,8 @@
        very light so text stays readable. */
     --gm-row-read: #faf8f2;
 
-    /* Accent: golden amber. Selected (ticked) rows, the active
-       Primary/Promotions/Updates tab, and the line under each message
-       header in a conversation.
+    /* Accent: golden amber. Selected (ticked) rows and the line
+       under each message header in a conversation.
        Strength: 0.3 subtle … 0.5 now … 0.7 strong */
     --gm-accent: rgba(230, 180, 90, 0.5);
 
@@ -79,5 +78,11 @@
        the top of each message in a conversation.
        Strength: 0.05 lighter … 0.10 now … 0.30 darker */
     --gm-thread-header: rgba(230, 180, 90, 0.10);
+
+    /* Active tab: warm taupe, like the selected sidebar folder, so it
+       stands apart from the cream unread rows. Background of the open
+       Primary/Promotions/Updates tab.
+       Strength: 0.3 subtle … 0.5 now … 0.7 strong */
+    --gm-tab-selected: rgba(168, 154, 122, 0.5);
   }
 }

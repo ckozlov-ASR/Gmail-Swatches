@@ -66,9 +66,8 @@
        very light so text stays readable. */
     --gm-row-read: #fbf3ea;
 
-    /* Accent: flame orange. Selected (ticked) rows, the active
-       Primary/Promotions/Updates tab, and the line under each message
-       header in a conversation.
+    /* Accent: flame orange. Selected (ticked) rows and the line
+       under each message header in a conversation.
        Strength: 0.3 subtle … 0.5 now … 0.7 strong */
     --gm-accent: rgba(235, 140, 60, 0.5);
 
@@ -76,5 +75,10 @@
        the top of each message in a conversation.
        Strength: 0.05 lighter … 0.10 now … 0.30 darker */
     --gm-thread-header: rgba(235, 140, 60, 0.10);
+
+    /* Active tab: flame orange. Background of the open
+       Primary/Promotions/Updates tab.
+       Strength: 0.3 subtle … 0.5 now … 0.7 strong */
+    --gm-tab-selected: rgba(235, 140, 60, 0.5);
   }
 }

@@ -66,9 +66,8 @@
        very light so text stays readable. */
     --gm-row-read: #f5f9fc;
 
-    /* Accent: seafoam. Selected (ticked) rows, the active
-       Primary/Promotions/Updates tab, and the line under each message
-       header in a conversation.
+    /* Accent: seafoam. Selected (ticked) rows and the line
+       under each message header in a conversation.
        Strength: 0.3 subtle … 0.45 now … 0.7 strong */
     --gm-accent: rgba(90, 180, 175, 0.45);
 
@@ -76,5 +75,10 @@
        the top of each message in a conversation.
        Strength: 0.05 lighter … 0.10 now … 0.30 darker */
     --gm-thread-header: rgba(90, 180, 175, 0.10);
+
+    /* Active tab: seafoam. Background of the open
+       Primary/Promotions/Updates tab.
+       Strength: 0.3 subtle … 0.45 now … 0.7 strong */
+    --gm-tab-selected: rgba(90, 180, 175, 0.45);
   }
 }

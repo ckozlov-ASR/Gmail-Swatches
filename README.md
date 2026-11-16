@@ -73,7 +73,7 @@ color, search the web for "color picker" and copy its RGB numbers or
 
 ### Theme colors
 
-Each theme sets the same eight variables, named for what they color:
+Each theme sets the same nine variables, named for what they color:
 
 | Variable | Used for |
 | --- | --- |
@@ -83,13 +83,14 @@ Each theme sets the same eight variables, named for what they color:
 | `--gm-label-text` | Selected sidebar label text |
 | `--gm-row-unread` | Unread message rows |
 | `--gm-row-read` | Read message rows, thread cards |
-| `--gm-accent` | Selected rows, active tab, thread header underline |
+| `--gm-accent` | Selected rows, thread header underline |
 | `--gm-thread-header` | Thread sender/date strip (a pale tint of the accent) |
+| `--gm-tab-selected` | Active Primary/Promotions/Updates tab |
 
 ### A new theme or another account
 
 Copy `themes/th_ocean.css`, give it a new `@name`, change the email address
-and the eight colors, and add it to Stylus as another style.
+and the nine colors, and add it to Stylus as another style.
 
 ### How account matching works
 
