@@ -1,8 +1,14 @@
 # Gmail Swatches
 
-Gmail normally squeezes each message onto one line, with only a few words of the body trailing after the subject. To read more you have to open the message or turn on the reading pane, which takes space away from the inbox list.
+While Gmail excels at accessibility and convenience, some of the visual organization and usability of traditional email clients seem to have been lost along the way.
 
-Gmail Swatches gives every row two lines: the subject on top and a preview of the body underneath. You can skim what each email says straight from the inbox, without clicking into it or using the reading pane. Rows are taller, unread mail stands out, and the colors make it easy to tell which account you're in. Pick a color theme (a swatch) for each Gmail account: Autumn, Ocean or Ember.
+Gmail crams both the subject and message preview onto a single line. To read more, you have to either open the message or enable the reading pane, which takes valuable space away from the inbox list. Visual clarity is another area where Gmail can fall short. Its light and dark themes can make readability a challenge, while long email threads can visually blend together, making it harder to distinguish individual replies.
+
+**Gmail Swatches** is a CSS-based attempt to address some of these shortcomings and improve Gmail's visual organization and readability.
+
+Subject and message previews are displayed on separate lines, making it easier to skim an inbox without opening individual messages or using the reading pane. The sidebar, tabs, unread messages, and message highlights are more visually distinct, while improved separation within email threads makes it easier to follow longer conversations.
+
+Color themes (or swatches) offer opportunities for personal customization and experimentation. For those managing multiple Gmail accounts in isolated browser environments, choosing a different swatch makes it easier to distinguish between accounts.
 
 Current version: **3.3.0** — see [CHANGELOG.md](CHANGELOG.md).
 
