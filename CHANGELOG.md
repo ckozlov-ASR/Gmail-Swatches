@@ -8,9 +8,10 @@ All notable changes to this theme are recorded here. The format follows
 
 ### Changed
 - **Active tab color.** New `--gm-tab-selected` setting colors the open
-  Primary/Promotions/Updates tab separately from the accent. Autumn's is
-  now warm taupe, like the selected sidebar folder, so it no longer blends
-  with the cream unread rows. Ocean and Ember look the same as before.
+  Primary/Promotions/Updates tab separately from the accent, and
+  in every theme it now matches the selected sidebar folder (taupe in
+  Autumn, slate blue in Ocean, copper in Ember), so it no longer blends
+  with the unread rows.
 
 ## [3.2.2] — 2026-11-12 — Inbox preview explained
 
