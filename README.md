@@ -39,8 +39,8 @@ theme get the base's neutral grays.
 ## Installing
 
 Gmail has no built-in custom CSS setting, so the styles are applied with the
-**Stylus** browser extension (Chrome Web Store, Edge Add-ons or Firefox
-Add-ons). Each file becomes its own Stylus style:
+[**Stylus**](https://github.com/openstyles/stylus) browser extension
+(Chrome Web Store, Edge Add-ons or Firefox Add-ons). Each file becomes its own Stylus style:
 
 1. In Stylus, choose **Manage → Write new style**.
 2. Select everything in the editor and paste the whole file over it,
