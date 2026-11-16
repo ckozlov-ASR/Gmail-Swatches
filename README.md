@@ -10,7 +10,7 @@ Subject and message previews are displayed on separate lines, making it easier t
 
 Color themes (or swatches) offer opportunities for personal customization and experimentation. For those managing multiple Gmail accounts in isolated browser environments, choosing a different swatch makes it easier to distinguish between accounts.
 
-Current version: **3.3.1** — see [CHANGELOG.md](CHANGELOG.md).
+Current version: **3.3.2** — see [CHANGELOG.md](CHANGELOG.md).
 
 ## How it's organized
 

@@ -6,6 +6,8 @@ All notable changes to this theme are recorded here. The format follows
 
 ## [Unreleased]
 
+## [3.3.2] — 2026-11-16 — Sender icon stays put
+
 ### Fixed
 - **Sender icon jump on hover.** When a row with a sender icon was
   hovered, a long subject dropped below the icon. The subject now stays
@@ -207,7 +209,8 @@ First published version.
 - Section headers and comments throughout; selectors and values unchanged
   from the original uploaded stylesheet.
 
-[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.1...HEAD
+[Unreleased]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.2...HEAD
+[3.3.2]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.1...v3.3.2
 [3.3.1]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.3.0...v3.3.1
 [3.3.0]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.2...v3.3.0
 [3.2.2]: https://github.com/ckozlov-ASR/Gmail-Swatches/compare/v3.2.1...v3.2.2
